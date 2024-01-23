@@ -18,3 +18,24 @@ Dataset can be downloaded from [here](https://www.kaggle.com/fedesoriano/body-fa
 13) Biceps (extended) circumference (cm)
 14) Forearm circumference (cm)
 15) Wrist circumference (cm)
+
+
+
+#Deployment on azure cloud
+
+###Set up your initial environment
+
+1. Have an a azure account.
+2. Install Python.
+3. Install the Azure CLI. With which You ran commands in any shell to provision and configure azure resources.
+
+## Commands for CLI.
+
+Check the python version.
+`py -3 --version`
+
+Check the Azure CLI Version
+`az --version`
+
+Then sign in into azure through the CLI
+`az login`
