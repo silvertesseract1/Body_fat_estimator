@@ -21,9 +21,9 @@ Dataset can be downloaded from [here](https://www.kaggle.com/fedesoriano/body-fa
 
 
 
-#Deployment on azure cloud
+  ## Deployment on azure cloud
 
- ###Set up your initial environment
+ ### Set up your initial environment
 
 1. Have an a azure account.
 2. Install Python.
