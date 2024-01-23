@@ -1,7 +1,7 @@
-# About the dataset
+ # About the dataset
 Dataset can be downloaded from [here](https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset)
 
-# Attributes in the dataset
+ # Attributes in the dataset
 
 1) Density determined from underwater weighing
 2) Percent body fat from Siri's (1956) equation
@@ -23,13 +23,13 @@ Dataset can be downloaded from [here](https://www.kaggle.com/fedesoriano/body-fa
 
 #Deployment on azure cloud
 
-###Set up your initial environment
+ ###Set up your initial environment
 
 1. Have an a azure account.
 2. Install Python.
 3. Install the Azure CLI. With which You ran commands in any shell to provision and configure azure resources.
 
-## Commands for CLI.
+ ## Commands for CLI.
 
 Check the python version.
 `py -3 --version`
